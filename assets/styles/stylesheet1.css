@@ -185,6 +185,10 @@ section h3 {
     margin-bottom: 0;
 }
 
+.section-list {
+    display: grid;
+}
+
 .innerSection {
     display: flex;
     justify-content: space-between;
