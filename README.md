@@ -1,2 +1,2 @@
-# TakeMeSomewhere
+This assignment was a little more challenging as I was making sure to follow the criteria more closely. I struggled with finding unique ways to style the grids in a way that still fit the website aestetic. I used large scale images for the front page banner and put all gallery images in a folder. Some links are used for certain photos for convenience. I also learned that grids can have different sizes between columns and rows and different patterns can be created. I learned to not use the vw unit and I also learned about the fr unit for grids. I think the site scales pretty well. I figured out why my fonts were not loading in the first assignment. It was due to the directory not being referenced accurately.
  
