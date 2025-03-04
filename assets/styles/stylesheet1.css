@@ -46,6 +46,7 @@ a {
 nav {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     color: var(--almost-black);
     padding-top: 10px;
     padding-left: 1rem;
@@ -80,6 +81,7 @@ nav img {
 
 #navOptions {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     min-width: fit-content;
